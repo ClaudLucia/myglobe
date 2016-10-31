@@ -9,7 +9,7 @@
   "addons": [
 
   ],
-  "buildpacks": "php" [
+  "buildpacks": "java" [
 
   ]
 }
